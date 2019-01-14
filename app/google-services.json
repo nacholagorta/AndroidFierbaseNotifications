@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "753004538344",
+    "firebase_url": "https://androidlearningnotifications.firebaseio.com",
+    "project_id": "androidlearningnotifications",
+    "storage_bucket": "androidlearningnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753004538344:android:74d71944d2212fc9",
+        "android_client_info": {
+          "package_name": "com.example.nacho.androidfirebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753004538344-kpmv9ih6a63lul63076p7rirnc4ipi75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1KaB-aZU1c9JYnQhkVlFbBe5GnxxnNcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
